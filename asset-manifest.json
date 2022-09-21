@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/jukedome/static/css/main.d8bc4287.css",
+    "main.js": "/jukedome/static/js/main.533f458f.js",
+    "static/js/787.908f15e0.chunk.js": "/jukedome/static/js/787.908f15e0.chunk.js",
+    "static/media/roadmap.svg": "/jukedome/static/media/roadmap.ce13bd40c9f363d31497023b6351384c.svg",
+    "static/media/logo.svg": "/jukedome/static/media/logo.44d4e84989c01a4e67d0ac0459d33eaa.svg",
+    "static/media/discord.svg": "/jukedome/static/media/discord.a38073177f1bad702deaab89e76d8cf2.svg",
+    "static/media/instagram.svg": "/jukedome/static/media/instagram.2294921dbc70c2fa3370b6508528d83a.svg",
+    "static/media/twitter.svg": "/jukedome/static/media/twitter.07e1515fd890de0d5ddab2b6d2f3068b.svg",
+    "static/media/twitter2.svg": "/jukedome/static/media/twitter2.7b68cc69ca92edfc07e8f70ea7e90e16.svg",
+    "index.html": "/jukedome/index.html",
+    "static/media/Emoji.svg": "/jukedome/static/media/Emoji.c694ae47adc872582c8138357f251915.svg",
+    "static/media/chevronRight2.svg": "/jukedome/static/media/chevronRight2.37deac0fb12bc02b0fdfe365b421e80b.svg",
+    "static/media/chevronLeft2.svg": "/jukedome/static/media/chevronLeft2.0a8401201044040cdf52dd612eba6921.svg",
+    "static/media/chevronRight.svg": "/jukedome/static/media/chevronRight.414170768f13d607337c35e9ddf56aca.svg",
+    "static/media/line2.svg": "/jukedome/static/media/line2.0cdd371527c109e87dc96361e98ec74f.svg",
+    "static/media/line.svg": "/jukedome/static/media/line.77cf7619ca8a839f8fbbcb0a60821924.svg",
+    "static/media/blue-line.svg": "/jukedome/static/media/blue-line.d39a7e47dcf2355d577b5429a48e53b2.svg",
+    "static/media/green-line.svg": "/jukedome/static/media/green-line.d3197810865c9c8de978a681a62b68d9.svg",
+    "static/media/white-line.svg": "/jukedome/static/media/white-line.820573fbd524ce078d94f29b047cff1f.svg",
+    "main.d8bc4287.css.map": "/jukedome/static/css/main.d8bc4287.css.map",
+    "main.533f458f.js.map": "/jukedome/static/js/main.533f458f.js.map",
+    "787.908f15e0.chunk.js.map": "/jukedome/static/js/787.908f15e0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8bc4287.css",
+    "static/js/main.533f458f.js"
+  ]
+}
